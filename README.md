@@ -1,8 +1,8 @@
-# Maze Chaser
+# Maze Chaser 🟡👻
 
-A lightweight Pac-Man style clone built with [Pygame](https://www.pygame.org/).
+A lightweight Pac-Man style clone built with [Pygame](https://www.pygame.org/). 🎮
 
-## Running
+## Running ▶️
 
 Install dependencies and run the game:
 
@@ -11,8 +11,8 @@ pip install pygame
 python main.py
 ```
 
-## Gameplay
+## Gameplay 🕹️
 
-- Collect all pellets to win.
-- Avoid ghosts unless you've eaten a power pellet.
-- Use arrow keys or WASD to move.
+- Collect all pellets to win. 🍬
+- Avoid ghosts unless you've eaten a power pellet. 👻⚡
+- Use arrow keys or WASD to move. ⬅️⬆️⬇️➡️
